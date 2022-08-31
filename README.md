@@ -73,5 +73,5 @@ animation
 
 
 
-2. Закрепите навыки работы с селекторами в забавной игре https://flukeout.github.io/
+2 Закрепите навыки работы с селекторами в забавной игре https://flukeout.github.io/
 <img width="1280" alt="Снимок экрана 2022-09-01 в 00 45 08" src="https://user-images.githubusercontent.com/110172816/187790984-98eae0da-4705-4057-a761-7fd894db6da5.png">
