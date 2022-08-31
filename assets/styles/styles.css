@@ -1,0 +1,80 @@
+.logo {
+    width: 300px;
+    position: relative;
+    right: 10px;
+    left: 10px;
+    top: 20px;
+    padding: 0px;
+}
+
+span {
+    padding: 10px;
+}
+
+nav .menu {
+    text-decoration: none;
+    color: black;
+    padding: 50px;
+    font-weight: bolder;
+}
+
+nav .menu:hover {
+    text-decoration: underline;
+}
+
+.tab {
+    padding: 0px;
+    margin-bottom: 30px;
+}
+
+.image {
+    position: relative;
+    border-radius: 2ex;
+    border: 2px solid black;
+    opacity: 0, 5;
+    box-shadow: 0 0 10px black;
+    margin: 20px;
+
+}
+
+.imageh1 {
+    position: absolute;
+    top: 50%;
+    left: 50px;
+    padding-left: 0px;
+}
+
+button:hover {
+    color: blue;
+}
+
+a:visited {
+    color: red;
+}
+
+.text2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding: 40px;
+}
+
+#slogan {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+
+.pic {
+    padding-right: 0%;
+    border-radius: 10px;
+    border: 2px solid black;
+    opacity: 0, 5;
+    box-shadow: 0 0 10px black;
+}
+
+.pic2 {
+    padding-right: 0%;
+    border-radius: 10px;
+    border: 2px solid black;
+    opacity: 0, 5;
+    box-shadow: 0 0 10px black;
+}
